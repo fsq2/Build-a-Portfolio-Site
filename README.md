@@ -1,2 +1,3 @@
 # Build-a-Portfolio-Site
-this project is required from udacity 
+developer fahad alqahtani
+this project is requirement by udacity nanodegree program
