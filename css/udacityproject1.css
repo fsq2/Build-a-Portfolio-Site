@@ -1,0 +1,48 @@
+
+body{
+  background-color: black;
+}
+
+p{
+
+  color: darkgoldenrod;
+}
+h1,h2{
+  color: darkred;
+
+
+}
+h3{
+
+  color:darkred ;
+}
+.row{
+  padding:20px;
+}
+
+.co-md-4{
+  padding: 30px;
+}
+.imgA{
+
+  width: 105%;
+
+}
+.imgB{
+
+  width: 105%;
+
+}
+.imgC{
+
+  width: 105%;
+
+}
+@media screen and (  max-width:768px) {
+
+  .img1{
+    width: 96%;
+  }
+
+}
+
